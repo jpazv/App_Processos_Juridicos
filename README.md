@@ -1,5 +1,6 @@
-# T197_N24AB_Joao_Paulo_Azevedo
-Mobile development
+#Aplicativo de Processos Jurídicos
+
+Desenvolvimento Mobile
 
 João Paulo Azevedo Moreira - 2422742
 João Pedro Campos Fernandes - 2322724
